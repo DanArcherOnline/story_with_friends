@@ -1,11 +1,21 @@
+<<<<<<< HEAD
 Once upon a time I ... ........ made a changed
+=======
+Once upon a time, in a galaxy far far away…
+>>>>>>> master
 
 Hiroki asked me a question about how to open previous changes.
 
 I completely ignored Hiroki, and decided to buy a fish
 a crsipy fish to slap Ashbin in the hamstrangs.
+<<<<<<< HEAD
 // now it is not empty !!!~~~ yeahhh 
 // Hiroki changed 2021 01 09  
 // Hiroki changed 2021 01 10  
 
 blah blah blah not bra 
+=======
+
+But Ashbins hamstrangs were too strong, and the fish
+disintegrated. 
+>>>>>>> master
